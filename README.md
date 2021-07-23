@@ -1,6 +1,6 @@
-# PublicDomainRepoTemplate
+# pdlibc
 
-Template for public-domain repositories
+Public-domain C/C++ Standard Library implementation.
 
 Feel free to use whatever is here for whatever you want, take a look at LICENSE
 
